@@ -11,7 +11,7 @@ body {
 body::after {
     content: "";
     background-image: url('WidgetCoLogo.gif');
-    background-size: 800px;
+    background-size: 801px;
     background-position: center;
     background-repeat: no-repeat;
     opacity: 0.25;
@@ -31,7 +31,7 @@ header {
   border-bottom: 1px solid #000;
   margin: 0 auto;
   width: 100%;
-  max-width: 1500px;
+  max-width: 1501px;
   font-size: 20px;
 }
 
@@ -118,7 +118,7 @@ footer {
     margin-top: 30px;
     border-top: 2px solid #ccc;
     text-align: right;
-    font-size: 1.0em;
+    font-size: 1.1em;
     color: #999999;
 }
 
